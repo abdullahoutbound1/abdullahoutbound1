@@ -1,16 +1,24 @@
-## Hi there 👋
+Abdullah | B2B Lead Generation Specialist
 
-<!--
-**abdullahoutbound1/abdullahoutbound1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help B2B businesses find qualified prospects and build a consistent sales pipeline through targeted research and outbound outreach.
 
-Here are some ideas to get you started:
+My Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- B2B Lead Generation
+- LinkedIn Outreach
+- Cold Email Campaign Setup & Management
+- Email Deliverability (SPF, DKIM, DMARC)
+- Prospect Research & Qualification
+- CRM Management
+
+Tools I Use
+
+Apollo.io · LinkedIn Sales Navigator · Instantly.ai · Smartlead · HubSpot · NeverBounce · Google Sheets
+
+Contact Me
+
+- Email: mianabdullahh99@gmail.com
+- WhatsApp: "+92 306 9349554" (https://wa.me/923069349554)
+- GitHub: https://github.com/abdullahoutbound1
+
+Available for hourly, fixed-price and monthly B2B projects.
